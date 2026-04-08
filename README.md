@@ -13,4 +13,5 @@ A simple and interactive web-based game where the player has to guess a random n
 * **JavaScript:** For the game logic and DOM manipulation.
 
 ## 🚀 Live Demo
+https://nithishkumar08072006.github.io/guess-the-number/
 
